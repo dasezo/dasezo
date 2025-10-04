@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack Web Developer</h3>
 
 ## 💫 About Me:
-- 👨‍💻 All of my projects are available at [https://dasezo.me](https://dasezo.me)
+- 👨‍💻 All of my projects are available at [https://dasezo.me](https://dasezo.com)
 
 - 📫 How to reach me **mohammed.benguezzou@gmail.com**
 
